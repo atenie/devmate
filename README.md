@@ -13,16 +13,19 @@ What hasn't been done, is marked ~~like this.~~
 - [ ] Integration tests for 3rd party libraries
 - [ ] _Responsive UI_
 
+### General tasks
+
+- [x] Create DB tables and constraints
+
 ### UC1: User Registration
 
-- [ ] CRUD for users
-- [ ] Registration page
+- [x] CRUD for users
+- [ ] Registration page (+Password check)
 - [ ] Login page
-- [ ] Password check
 - [ ] _Confirmation mail_
 
 ### UC2+3: Define+manage alarms
-- [ ] CRUD for alarms in Java
+- [ ] CRUD for alarms
 - [ ] UI buttons for alarm management (modify, delete) and actual listing of items
 
 ### UC4: Send alarms
