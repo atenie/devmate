@@ -13,7 +13,7 @@ What hasn't been done, is marked ~~like this.~~
 
 How to run:
         
-    To run the Spring project, load up IntelliJ or check out the mvnw.cmd (for Windows) or mvnw (for Unix-derived OSs).
+    To run the Spring project, load up IntelliJ or check out the mvnw.cmd (for Windows) or mvnw (for Unix-derived OSs) and run them if you know what you're doing. I HIGHLY recommend the IntelliJ path.
     To run the React part of the project, enter the "frontend" folder with your console/terminal and run "npm start".
 
 **What has been done by the 8 hour mark:**
