@@ -8,8 +8,6 @@ import Profile from "./components/pages/Profile";
 import Register from "./components/pages/Register";
 
 class App extends Component {
-  state = {};
-
   render() {
     return (
       <Router>
