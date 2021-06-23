@@ -33,7 +33,7 @@ How to run:
 
 - [x] CRUD for users
 - [x] _Main page_
-- [x] Registration page
+- [ ] Registration page
 - [ ] Password check for registration
 - [x] Login page
 - [ ] _Confirmation mail_
@@ -45,3 +45,33 @@ How to run:
 ### UC4: Send alarms
 - [ ] Mail notification system
 
+
+**What has been done by the 10 hour mark:**
+
+### Non-UC tasks
+- [x] Create README
+- [x] "How to run" entry
+- [ ] Integration tests for 3rd party libraries
+- [ ] _Responsive UI_
+
+### General tasks
+
+- [x] Create DB tables and constraints
+- [x] Routes between pages
+- [x] General website skeleton
+
+### UC1: User Registration
+
+- [x] CRUD for users
+- [x] _Main page_
+- [x] Registration page
+- [ ] Password check for registration
+- [x] Login page
+- [ ] _Confirmation mail_
+
+### UC2+3: Define+manage alarms
+- [ ] CRUD for alarms
+- [ ] Alarm page
+
+### UC4: Send alarms
+- [ ] Mail notification system
