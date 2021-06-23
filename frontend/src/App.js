@@ -20,7 +20,7 @@ class App extends Component {
               class="col col-xs-10 col-sm-10 col-md-10 col-lg-6 col-xl-6"
               className="justify-content-center"
             >
-              <Navigation className="navbar-center" />
+              <Navigation />
               <Switch>
                 <Route exact path="/">
                   <Home></Home>

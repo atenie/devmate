@@ -4,6 +4,9 @@
 receive price changes alarms when the Stock price changes reach their defined
 thresholds."
 
+I've used Java Spring for the backend part, ReactJS for the frontend, and there is a Amazon AWS RDS solution with the credentials in the application.properties file.
+
+
 Potential items/ideas/ are marked _like this._
 What hasn't been done, is marked ~~like this.~~
 
@@ -30,7 +33,8 @@ How to run:
 
 - [x] CRUD for users
 - [x] _Main page_
-- [ ] Registration page (+Password check)
+- [x] Registration page
+- [ ] Password check for registration
 - [x] Login page
 - [ ] _Confirmation mail_
 
@@ -40,3 +44,4 @@ How to run:
 
 ### UC4: Send alarms
 - [ ] Mail notification system
+

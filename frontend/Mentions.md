@@ -3,3 +3,4 @@
 * I'll be using the opening price as a value for "price", since this is what Google seems to be using.
 * A good way this might be worth testing is via some crypto item, since stocks have a schedule whilst crypto never sleeps.
 * No ID autoincrement reset. No idea how that would be _properly_ implemented.
+* 

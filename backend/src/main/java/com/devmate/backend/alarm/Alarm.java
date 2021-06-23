@@ -25,6 +25,4 @@ public class Alarm {
     @Column(name="change")
     @NotNull
     private float change;
-
-
 }

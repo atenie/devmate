@@ -3,7 +3,9 @@ import React from "react";
 const Home = () => {
   return (
     <div class="row">
+      <div class="col"></div>
       <div class="col">
+        <p>devmate stock notification system</p>
         <form class="row g-3">
           <div class="col-auto">
             <input class="form-control" id="input-email" placeholder="Email" />
@@ -26,6 +28,7 @@ const Home = () => {
           </div>
         </form>
       </div>
+      <div class="col"></div>
     </div>
   );
 };
