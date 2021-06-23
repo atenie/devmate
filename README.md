@@ -7,26 +7,36 @@ thresholds."
 Potential items/ideas/ are marked _like this._
 What hasn't been done, is marked ~~like this.~~
 
+How to run:
+        
+    To run the Spring project, load up IntelliJ or check out the mvnw.cmd (for Windows) or mvnw (for Unix-derived OSs).
+    To run the React part of the project, enter the "frontend" folder with your console/terminal and run "npm start".
+
+**What has been done by the 8 hour mark:**
+
 ### Non-UC tasks
 - [x] Create README
-- [ ] "How to run" entry
+- [x] "How to run" entry
 - [ ] Integration tests for 3rd party libraries
 - [ ] _Responsive UI_
 
 ### General tasks
 
 - [x] Create DB tables and constraints
+- [x] Routes between pages
+- [x] General website skeleton
 
 ### UC1: User Registration
 
 - [x] CRUD for users
+- [x] _Main page_
 - [ ] Registration page (+Password check)
-- [ ] Login page
+- [x] Login page
 - [ ] _Confirmation mail_
 
 ### UC2+3: Define+manage alarms
 - [ ] CRUD for alarms
-- [ ] UI buttons for alarm management (modify, delete) and actual listing of items
+- [ ] Alarm page
 
 ### UC4: Send alarms
 - [ ] Mail notification system
